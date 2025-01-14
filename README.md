@@ -2,17 +2,17 @@
 <h3 align="center">A Passionate Programmer and DevOps Enthusiast</h3>
 
 - 🌱 I’m currently learning **Cloud Platforms: AWS**
-                             **DevOps Tools: Docker, Kubernetes, Jenkins**
+- **DevOps Tools: Docker, Kubernetes, Jenkins**
 
 - 👯 I’m looking to collaborate on **Cloud-Based Solutions and DevOps Projects**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/mahendra-6604)
 
 - 💬 Ask me about **Programming: Python**
-                   **DevOps: CI/CD, Docker, Kubernetes**
+- **DevOps: CI/CD, Docker, Kubernetes**
 
 - 📫 How to reach me **Email: pmr060604@gmail.com**
-                      **LinkedIn: https://www.linkedin.com/in/pallamparti-mahendra-reddy-83bb20268/**
+- **LinkedIn: https://www.linkedin.com/in/pallamparti-mahendra-reddy-83bb20268/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
